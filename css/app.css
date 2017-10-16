@@ -524,13 +524,12 @@ h6 {
 p {
   color: #fff; }
 
+span {
+  padding: 0px 5px; }
+
 .caption h5 {
   font-weight: bold;
   text-transform: uppercase; }
-
-.caption span:before {
-  content: "|";
-  padding: 0px 5px; }
 
 .footer {
   background-color: #ee7600; }
@@ -543,9 +542,6 @@ p {
     margin-bottom: 0px;
     font-size: 17px;
     font-weight: bold; }
-  .footer span:before {
-    content: "|";
-    padding: 0px 5px; }
   .footer .tiny {
     margin-top: 20px;
     font-size: 9px; }
